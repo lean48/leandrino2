@@ -1,0 +1,21 @@
+﻿<!DOCTYPE HTML>
+<html>
+ <head>
+  <style>
+    body {background-color: magenta;
+         }
+    h1 {color: #HE4A2A;
+        font-family: verdana;
+        font-size: 500%;        
+        }
+    </style>  
+  </head>
+<h1 style="text-align: center;">ElMillor</h1>
+<p><img src="https://s3.dexerto.com/thumbnails/_thumbnailLarge/ElmilloR-organiza-un-torneo-para-buscar-al-mejor-jugador-de-soloQ-de-Espa%C3%B1a.jpg" width="640" height="360" />&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><img style="text-align: center;" />&nbsp;Jugar al LOL &eacute;s bo</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><a href="https://www.twitch.tv/elmiillor/clips">Fes click aqu&iacute; per anar a Twitch de ElMillor</a></p>
+<p style="text-align: center;">&nbsp;<iframe src="//www.youtube.com/embed/lkxYq48uYFw" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;">&nbsp;</p>
+</html>
